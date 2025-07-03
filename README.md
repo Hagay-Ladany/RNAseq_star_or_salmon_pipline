@@ -5,7 +5,7 @@ This document provides instructions for setting up and running a flexible RNA-se
 
 ## **Table of Contents**
 
-1. [Environment Setup](https://www.google.com/search?q=%23environment-setup)  
+1. [Environment Setup](## **1\. Environment Setup (already done!)**)  
 2. [Pipeline Overview](https://www.google.com/search?q=%23pipeline-overview)  
 3. [Initial Setup: Running the Generator](https://www.google.com/search?q=%23initial-setup-running-the-generator)  
 4. [Configuration: The 3\_samples.tsv File](https://www.google.com/search?q=%23configuration-the-3_samplestsv-file)  
