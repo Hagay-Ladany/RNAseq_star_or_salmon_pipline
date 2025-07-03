@@ -1,6 +1,7 @@
 # **RNA-seq HTCondor Pipeline**
 
 This document provides instructions for setting up and running a flexible RNA-seq analysis pipeline using HTCondor. The pipeline has been simplified to use a single file for sample and design configuration.
+*note, the R scripts of deseq2 and fgsea are only serve as a template, interative R run over the merged_gene_counts.csv is still needed.
 
 ## **Table of Contents**
 
